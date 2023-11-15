@@ -1,4 +1,3 @@
-1-rectangle.js
 #!/usr/bin/node
 
 exports.converter = function (base) {
