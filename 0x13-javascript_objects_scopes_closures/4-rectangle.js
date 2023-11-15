@@ -1,4 +1,3 @@
-1-rectangle.js
 #!/usr/bin/node
 class Rectangle {
   constructor (w, h) {

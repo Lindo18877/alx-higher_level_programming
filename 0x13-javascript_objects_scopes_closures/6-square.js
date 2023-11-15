@@ -1,4 +1,3 @@
-1-rectangle.js
 #!/usr/bin/node
 const SquareP = require('./5-square');
 
